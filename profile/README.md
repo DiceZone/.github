@@ -25,7 +25,7 @@ This organization focuses on providing modern deployment and maintenance tools f
 
 Check individual repositories for detailed usage guides and documentation.
 
-## 支持的骰子机器人 | Supported Dice Bots
+## 相关的骰子项目 | Supported Dice Bots
 
 - 🦭 [海豹核心 SealDice](https://github.com/sealdice/sealdice-core)
 - ♿️ [青果核心 OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
