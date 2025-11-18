@@ -1,4 +1,4 @@
-# DiceZone
+# DiceZone 骰子之间
 
 > 专注于骰子机器人生态的自动化与部署解决方案的社区
 > Automated deployment and ecosystem solutions for dice bots
