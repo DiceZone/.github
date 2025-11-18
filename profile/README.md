@@ -16,7 +16,7 @@ This organization focuses on providing modern deployment and maintenance tools f
 - **工具和插件** - 扩展功能和实用工具
 
 - **Docker Images** - Automatically built official images and optimized versions  
-- **One-Click Deployment** - Simplified installation and configuration  
+- **OneKey Deployment** - Simplified installation and configuration  
 - **Tools & Plugins** - Extended functionality and utilities
 
 ## 快速开始 | Quick Start
