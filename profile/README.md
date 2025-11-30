@@ -41,3 +41,5 @@ Various open source licenses are used across repositories. See individual reposi
 
 部分代码和文档使用 AI 工具辅助生成。  
 Some code and documentation are assisted by AI tools.
+
+支持我们：[爱发电](https://afdian.com/a/dicezone)
